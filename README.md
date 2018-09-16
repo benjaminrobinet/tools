@@ -19,5 +19,5 @@ I will add in this repository all the configs linked to my environment
 
 
 ## Environment
-* iTerm (better Terminal for MacOS)
+* [iTerm2](https://www.iterm2.com/) (better Terminal for MacOS)
 * Spotify (needed for almost every project)

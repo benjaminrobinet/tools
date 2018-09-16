@@ -15,7 +15,7 @@ I will add in this repository all the configs linked to my environment
 * Composer (PHP back-end)
 * NodeJS (JavaScript front-end / back-end)
 ### System
-* Brew (MacOS packages)
+* [Brew](https://brew.sh/) (MacOS packages)
 
 
 ## Environment

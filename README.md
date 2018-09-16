@@ -1,4 +1,5 @@
 # Here is everything I use in my working environment
+I will add in this repository all the configs linked to my environment
 
 ## IDE
 ### Web
